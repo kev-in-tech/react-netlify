@@ -9,6 +9,7 @@ function App() {
         <p>
           We are deploying this to Netlify!
         </p>
+        <p>Another change made to the Netlify deployed app</p>
         <a
           className="App-link"
           href="https://reactjs.org"
